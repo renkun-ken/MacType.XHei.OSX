@@ -8,7 +8,9 @@ Project website on [Google Code](https://code.google.com/p/mactype/).
 
 Instructions
 ---------------------
-Please download the latest version of MacType and download the config file to /(mactype)/bin/ini/ folder. If you choose not to install any config files in the installation wizard, you would probably not see the ini folder. You need to create one yourself.
+First, please make sure that you have installed XHei OSX fonts.
+
+Then, please download the latest version of MacType and download the config file to /(mactype)/bin/ini/ folder. If you choose not to install any config files in the installation wizard, you would probably not see the ini folder. You need to create one yourself.
 
 Once you put the config file to the ini folder, run the configuration wizard and choose a mode (registry mode is recommended) and choose XHei.OSX config. Restart your system and enjoy!
 
